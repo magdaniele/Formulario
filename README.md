@@ -1,4 +1,4 @@
-"# Formulario" 
+# Formulario
 ## Al abrirlo por primera vez:
 Se deberan habilitar las macros, excel al iniciar el archivo por primera vez abre una pequeña alerta de **naranja claro** el cual permmite habilitar el contenido de las macros y que el formulario se ejecute correctamente.
 ## Una vez habilitada las macros.
